@@ -21,7 +21,7 @@ git push --set-upstream origin <nombre de la rama>
 ```
 
 ## Crear un cotroller
-php artisan make:controller ReclamoController --resource
+php artisan make:controller <nameController>Controller --resource
 
 
 ## Como entrar
