@@ -1,0 +1,23 @@
+.estilo_portada > .slider-item {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 650px;
+    position: relative;
+    z-index: 0;
+}
+
+.texto-class {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    margin: auto;
+    height: 100%;
+    color: white !important;
+
+}
+
+.texto-class > .row  >  .text-center{
+    background: #ffffff82;
+}
